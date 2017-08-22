@@ -32,6 +32,9 @@
   re = reset
   rb = rebase
   r = remote
+  co = checkout
+  cob = checkout -b
+  del = branch -D
 
 
 
