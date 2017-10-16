@@ -1,2 +1,2 @@
-# Dotfiles
+#Dotfiles
 'nix conifiguration files.
