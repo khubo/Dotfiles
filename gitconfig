@@ -35,5 +35,5 @@
   co = checkout
   cob = checkout -b
   d = branch -D
-  
+  l = log --pretty=oneline -n 20 --graph --abbrev-commit  
 
